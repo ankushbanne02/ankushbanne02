@@ -37,7 +37,7 @@
 ---
 
 ### 🌍 Let's Connect!  
-📩 **Email:** [YourEmail@example.com](mailto:banneankush456@gmail.com)  
+📩 **Email:** [banneankush456@gmail.com](mailto:banneankush456@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/ankushbanne](https://www.linkedin.com/in/ankush-banne-90855424b/)  
 💻 **GitHub:** [github.com/AnkushBanne](https://github.com/ankushbanne02)  
 
