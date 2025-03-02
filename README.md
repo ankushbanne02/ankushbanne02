@@ -1,39 +1,47 @@
-<h2 align="center">👋 Hello! I’m Ankush Banne</h2>
-<h3 align="center">🚀 Software Developer | AI/ML Enthusiast | Cybersecurity Learner</h3>
+<h1 align="center">👋 Hello! I'm Ankush Banne</h1>
+<h3 align="center">A Passionate Software Developer | AI & Cybersecurity Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushbanne&label=Profile%20views&color=0e75b6&style=flat" alt="ankushbanne" /> </p>
-
-<img align="right" alt="coding" width="400" src="https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif">
-
-### 📚 My Journey in Tech
-🎓 **B.Tech in Computer Science and Engineering (AI & ML)** from **PCCOE, Pune**  
-💡 Passionate about **MERN Stack, Java, Python, C++, and Data Structures & Algorithms**  
-🛠️ Developing **efficient, scalable, and high-performance applications** for real-world challenges  
-
-### 🛡️ Cybersecurity & AI/ML Enthusiast | 💡 Problem Solver
-🔒 Exploring **Cybersecurity** to build safer applications  
-🤖 Innovating with **AI/ML** for smarter, automated solutions  
-⚡ Optimizing systems for **peak performance** and scalability  
-
-### 🌍 Beyond Coding: Social Impact
-❤️ Passionate about **mentoring students, open-source contributions, and helping businesses**  
-🤝 Love solving **real-life problems** and making technology accessible to all  
-
-### 📫 Let’s Connect!
-<a href="https://www.linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/ankushbanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkushBanne&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankushbanne&show_icons=true&locale=en" alt="ankushbanne" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushbanne&" alt="ankushbanne" /></p>
+---
+
+### 🚀 About Me  
+🔹 Passionate **Software Developer** skilled in **MERN Stack, Java, Python, C++, and DSA**  
+🔹 Love building **scalable, high-performance applications** & solving **real-world problems**  
+🔹 Enthusiastic about **AI 🤖, Cybersecurity 🔐, and System Optimization 🚀**  
+🔹 Strong believer in **technology for social impact** ❤️  
+
+### 📚 Education  
+🎓 **B.Tech in Computer Science & Engineering (AI & ML)** - PCCOE, Pune  
+🎓 **Diploma in Computer Engineering**  
+
+### 🛠️ Technologies & Skills  
+✅ **Frontend:** React.js, HTML, CSS, JavaScript, TypeScript  
+✅ **Backend:** Node.js, Express.js  
+✅ **Database:** MongoDB, MySQL  
+✅ **Programming Languages:** Java, Python, C++  
+✅ **Other:** Data Structures & Algorithms, AI/ML, Cybersecurity, Cloud Computing  
+
+---
+
+### 🔥 My GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkushBanne&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushBanne&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌍 Let's Connect!  
+📩 **Email:** [YourEmail@example.com](mailto:youremail@example.com)  
+🔗 **LinkedIn:** [linkedin.com/in/ankushbanne](https://linkedin.com/in/ankushbanne)  
+💻 **GitHub:** [github.com/AnkushBanne](https://github.com/AnkushBanne)  
+
+---
+
+✨ *Let's innovate and build amazing things together!* 🚀
+
