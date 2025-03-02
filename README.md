@@ -36,10 +36,11 @@
 
 ---
 
-### 🌍 Let's Connect!  
-📩 **Email:** [banneankush456@gmail.com](mailto:banneankush456@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/ankushbanne](https://www.linkedin.com/in/ankush-banne-90855424b/)  
-💻 **GitHub:** [github.com/ankushbanne02](https://github.com/ankushbanne02)  
+### 🌍 Let's Connect!
+📩 Email: banneankush456@gmail.com
+🔗 LinkedIn: linkedin.com/in/ankushbanne
+💻 GitHub: github.com/ankushbanne02
+📸 Instagram: instagram.com/ankushbanne_02
 
 ---
 
