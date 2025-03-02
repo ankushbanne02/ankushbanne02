@@ -28,18 +28,18 @@
 
 ### 🔥 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkushBanne&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushbanne02&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushBanne&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushbanne02&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌍 Let's Connect!  
-📩 **Email:** [YourEmail@example.com](mailto:youremail@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/ankushbanne](https://linkedin.com/in/ankushbanne)  
-💻 **GitHub:** [github.com/AnkushBanne](https://github.com/AnkushBanne)  
+📩 **Email:** [YourEmail@example.com](mailto:banneankush456@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/ankushbanne](https://www.linkedin.com/in/ankush-banne-90855424b/)  
+💻 **GitHub:** [github.com/AnkushBanne](https://github.com/ankushbanne02)  
 
 ---
 
